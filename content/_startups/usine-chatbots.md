@@ -8,7 +8,7 @@ phases:
     start: 2020-02-01
   - name: construction
     start: 2020-05-01
-link: https://chatbot.d.fabnum.fr/
+link: https://chatbot.fabnum.fr/
 stats: false
 contact: contact-chatbot@fabnum.fr
 ---
